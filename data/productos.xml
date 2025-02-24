@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>PROD00001</id>
+    <name>Camiseta b&#xE1;sica</name>
+    <descriptionCorta>Camiseta de algod&#xF3;n de color blanco</descriptionCorta>
+    <description>Una camiseta de algod&#xF3;n de alta calidad, suave al tacto y perfecta para uso
+      diario. Su dise&#xF1;o sencillo y color blanco la hacen vers&#xE1;til para combinar con
+      cualquier outfit.</description>
+    <image_url>https://www.yerse.com/cdnassets/41106_001_0110adl.jpg</image_url>
+    <category>Textil</category>
+    <price>10.00</price>
+    <stock>50</stock>
+  </product>
+  <product>
+    <id>PROD00002</id>
+    <name>Bol&#xED;grafo promocional</name>
+    <descriptionCorta>Bol&#xED;grafo con logo de la empresa</descriptionCorta>
+    <description>Un bol&#xED;grafo elegante y funcional, ideal para regalos corporativos. Incluye un
+      espacio personalizable para el logo de la empresa, perfecto para promociones y eventos.</description>
+    <image_url>https://tiendadepromocionales.com/cdn/shop/products/STEVIA_800x.jpg</image_url>
+    <category>Promocional</category>
+    <price>1.50</price>
+    <stock>0</stock>
+  </product>
+  <product>
+    <id>PROD00003</id>
+    <name>Gorra negra</name>
+    <descriptionCorta>Gorra ajustable de color negro</descriptionCorta>
+    <description>Una gorra cl&#xE1;sica y moderna, fabricada con materiales duraderos. Su
+      dise&#xF1;o ajustable la hace c&#xF3;moda para cualquier tama&#xF1;o de cabeza, ideal para
+      actividades al aire libre.</description>
+    <image_url>https://i.ebayimg.com/thumbs/images/g/HgoAAOSw715lrrqg/s-l1200.jpg</image_url>
+    <category>Textil</category>
+    <price>15.00</price>
+    <stock>30</stock>
+  </product>
+  <product>
+    <id>PROD00004</id>
+    <name>Mochila promocional</name>
+    <descriptionCorta>Mochila con dise&#xF1;o personalizado</descriptionCorta>
+    <description>Una mochila resistente y espaciosa, perfecta para uso diario o viajes. Cuenta con
+      un dise&#xF1;o personalizable, ideal para promociones corporativas o eventos especiales.</description>
+    <image_url>
+      https://www.promocionalesdelcentro.mx/20947-large_default/BOLSA-MOCHILA-ANSHAR-MORRAL-PROMOCIONAL-SIN933.jpg</image_url>
+    <category>Promocional</category>
+    <price>25.00</price>
+    <stock>20</stock>
+  </product>
+  <product>
+    <id>PROD00005</id>
+    <name>Polo deportivo</name>
+    <descriptionCorta>Polo de poli&#xE9;ster para actividades deportivas</descriptionCorta>
+    <description>Un polo ligero y transpirable, dise&#xF1;ado para actividades deportivas. Fabricado
+      en poli&#xE9;ster de alta calidad, ofrece comodidad y durabilidad durante el ejercicio.</description>
+    <image_url>
+      https://cicadex.com/wp-content/uploads/2020/01/350-33-Camiseta-Hom-Azul-ped-27-3-4-RH-copia.jpg</image_url>
+    <category>Textil</category>
+    <price>20.00</price>
+    <stock>40</stock>
+  </product>
+  <product>
+    <id>PROD00006</id>
+    <name>Taza personalizada</name>
+    <descriptionCorta>Taza de cer&#xE1;mica con impresi&#xF3;n personalizada</descriptionCorta>
+    <description>Una taza de cer&#xE1;mica de alta calidad, ideal para bebidas calientes o
+      fr&#xED;as. Su dise&#xF1;o personalizable la convierte en un regalo perfecto para clientes o
+      empleados.</description>
+    <image_url>
+      https://acdn-us.mitiendanube.com/stores/001/609/296/products/mockup-taza-personalizadas-800x8001-7a50e77fb3f6efc4f916246402651769-1024-1024.jpg</image_url>
+    <category>Promocional</category>
+    <price>5.00</price>
+    <stock>100</stock>
+  </product>
+  <product>
+    <id>PROD00007</id>
+    <name>Bufanda de lana</name>
+    <descriptionCorta>Bufanda de lana suave y abrigada</descriptionCorta>
+    <description>Una bufanda de lana suave y c&#xE1;lida, perfecta para los d&#xED;as fr&#xED;os. Su
+      dise&#xF1;o elegante y materiales de alta calidad la hacen un accesorio indispensable en
+      invierno.</description>
+    <image_url>
+      https://la.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dw337faae1/images/Full_Card_v/Benetton_23A_123MKU00E_700_FS_Full_Card_v.jpg</image_url>
+    <category>Textil</category>
+    <price>12.00</price>
+    <stock>25</stock>
+  </product>
+  <product>
+    <id>PROD00008</id>
+    <name>Llavero promocional</name>
+    <descriptionCorta>Llavero met&#xE1;lico con logo de la empresa</descriptionCorta>
+    <description>Un llavero met&#xE1;lico resistente y duradero, con espacio para personalizar el
+      logo de la empresa. Ideal para regalos corporativos o promociones.</description>
+    <image_url>
+      https://articulospromocionaleskw.com/wp-content/uploads/llavero-metalico-rectangular-forpromotional.jpg</image_url>
+    <category>Promocional</category>
+    <price>2.00</price>
+    <stock>150</stock>
+  </product>
+  <product>
+    <id>PROD00009</id>
+    <name>Chaqueta de mezclilla</name>
+    <descriptionCorta>Chaqueta de mezclilla cl&#xE1;sica</descriptionCorta>
+    <description>Una chaqueta de mezclilla cl&#xE1;sica y atemporal, perfecta para cualquier
+      ocasi&#xF3;n. Su dise&#xF1;o resistente y estilo moderno la convierten en una prenda esencial.</description>
+    <image_url>
+      https://caterpillarsv.com/cdn/shop/files/2310631-12268-Light-Stone_1643df9b-8a28-4b4e-8f30-121203f2c396.jpg</image_url>
+    <category>Textil</category>
+    <price>35.00</price>
+    <stock>15</stock>
+  </product>
+  <product>
+    <id>PROD00010</id>
+    <name>USB promocional</name>
+    <descriptionCorta>USB de 16GB con logo de la empresa</descriptionCorta>
+    <description>Un USB de 16GB pr&#xE1;ctico y funcional, con espacio para personalizar el logo de
+      la empresa. Ideal para regalos corporativos o promociones tecnol&#xF3;gicas.</description>
+    <image_url>https://img.joinet.com/wp-content/uploads/2021/04/DT203416GB-1-1.jpg</image_url>
+    <category>Promocional</category>
+    <price>8.00</price>
+    <stock>80</stock>
+  </product>
+  <product>
+    <id>PROD91279</id>
+    <name>Pantalon Jeans Azul</name>
+    <description>Pantal&#xF3;n de corte cl&#xE1;sico, fabricado con una mezcla de algod&#xF3;n y
+      elastano para un ajuste c&#xF3;modo y duradero. Ideal para ocasiones formales y casuales, con
+      cinco bolsillos y cierre de cremallera. Disponible en varios tama&#xF1;os, es una prenda
+      esencial para el d&#xED;a a d&#xED;a.</description>
+    <category>textil</category>
+    <price>23.40</price>
+    <stock>12</stock>
+    <image_url>
+      https://res.cloudinary.com/dp7iiqv6v/image/upload/v1740362499/producto_1740362498.webp</image_url>
+  </product>
+  <product>
+    <id>PROD91123</id>
+    <name>Gorra deportiva</name>
+    <description>Gorra ligera y transpirable, con visera curva y correa ajustable para un ajuste
+      perfecto. Ideal para actividades al aire libre y un look casual.</description>
+    <category>Textil</category>
+    <price>15.40</price>
+    <stock>10</stock>
+    <image_url>https://res.cloudinary.com/dp7iiqv6v/image/upload/v1740364178/producto_1740364177.jpg</image_url>
+  </product>
+  <product>
+    <id>PROD66296</id>
+    <name>Llaveros Publicitarios </name>
+    <description>Llaveros de acr&#xED;lico o metal con impresi&#xF3;n UV o grabado l&#xE1;ser,      perfectos para promoci&#xF3;n de marca.</description>
+    <category>Promocional</category>
+    <price>4.00</price>
+    <stock>50</stock>
+    <image_url>https://res.cloudinary.com/dp7iiqv6v/image/upload/v1740377692/phpF70E_pey57c.jpg</image_url>
+  </product>
+</products>

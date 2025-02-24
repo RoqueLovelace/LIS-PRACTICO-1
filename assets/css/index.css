@@ -1,0 +1,142 @@
+/* Fondo de la página */
+body {
+  background: linear-gradient(135deg, #d5d5d5 0%, #f0f0f0 100%) !important;
+  font-family: 'Montserrat', sans-serif !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* Cabecera */
+#CompanyName {
+  font-size: 2.5rem !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1) !important;
+  text-align: center !important;
+}
+
+.navbar {
+  background: linear-gradient(135deg, #007bff 0%, #0056b3 100%) !important;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 5px !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+  color: white !important;
+  padding: 10px 15px !important;
+  transition: background-color 0.3s ease !important;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #0056b3 !important;
+  border-radius: 5px !important;
+}
+
+.navbar .navbar-brand {
+  font-weight: 600 !important;
+  font-size: 1.3rem !important;
+  color: white !important;
+}
+
+/* Productos (cards) */
+.card {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out !important;
+  background-color: #ffffff !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  margin-bottom: 20px !important;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1) !important;
+}
+
+.card:hover {
+  transform: translateY(-10px) !important;
+  box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.15) !important;
+}
+
+.card-img-top {
+  height: 200px !important;
+  object-fit: contain !important;
+  filter: brightness(0.9) !important;
+}
+
+.card-body {
+  background-color: #f8f8f8 !important;
+  padding: 15px !important;
+}
+
+.card-title {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: #333 !important;
+  text-align: center !important;
+}
+
+.list-group-item {
+  background-color: #f8f8f8 !important;
+}
+
+.card-footer {
+  background-color: #ffffff !important;
+  display: flex !important;
+  justify-content: center !important;
+  padding: 10px !important;
+}
+
+/* Botón "Ver más" */
+.btn-ver-mas {
+  background-color: #150e4e !important;
+  color: white !important;
+  font-weight: 600 !important;
+  padding: 12px 20px !important;
+  border-radius: 5px !important;
+  transition: background-color 0.3s, transform 0.2s ease-in-out !important;
+}
+
+.btn-ver-mas:hover {
+  background-color: #1d1767 !important;
+  transform: scale(1.05) !important;
+}
+
+.btn-ver-mas:focus {
+  outline: none !important;
+}
+
+/* Footer */
+footer {
+  background-color: #333 !important;
+  color: white !important;
+  padding: 20px 0 !important;
+  text-align: center !important;
+}
+
+footer p {
+  font-size: 1rem !important;
+  margin: 0 !important;
+  font-weight: 400 !important;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 768px) {
+  .navbar .navbar-brand {
+    font-size: 1.2rem !important;
+  }
+
+  .navbar .navbar-nav .nav-link {
+    font-size: 1rem !important;
+  }
+
+  .card-body {
+    padding: 10px !important;
+  }
+
+  .card-img-top {
+    height: 150px !important;
+  }
+
+  footer {
+    padding: 15px 0 !important;
+  }
+}
