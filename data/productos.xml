@@ -51,12 +51,10 @@
     <id>PROD00005</id>
     <name>Polo deportivo</name>
     <descriptionCorta>Polo de poli&#xE9;ster para actividades deportivas</descriptionCorta>
-    <description>Un polo ligero y transpirable, dise&#xF1;ado para actividades deportivas. Fabricado
-      en poli&#xE9;ster de alta calidad, ofrece comodidad y durabilidad durante el ejercicio.</description>
-    <image_url>
-      https://cicadex.com/wp-content/uploads/2020/01/350-33-Camiseta-Hom-Azul-ped-27-3-4-RH-copia.jpg</image_url>
+    <description>Un polo ligero y transpirable, dise&#xF1;ado para actividades deportivas. Fabricado      en poli&#xE9;ster de alta calidad, ofrece comodidad y durabilidad durante el ejercicio.</description>
+    <image_url>      https://cicadex.com/wp-content/uploads/2020/01/350-33-Camiseta-Hom-Azul-ped-27-3-4-RH-copia.jpg</image_url>
     <category>Textil</category>
-    <price>20.00</price>
+    <price>21.00</price>
     <stock>40</stock>
   </product>
   <product>
@@ -72,19 +70,7 @@
     <price>5.00</price>
     <stock>100</stock>
   </product>
-  <product>
-    <id>PROD00007</id>
-    <name>Bufanda de lana</name>
-    <descriptionCorta>Bufanda de lana suave y abrigada</descriptionCorta>
-    <description>Una bufanda de lana suave y c&#xE1;lida, perfecta para los d&#xED;as fr&#xED;os. Su
-      dise&#xF1;o elegante y materiales de alta calidad la hacen un accesorio indispensable en
-      invierno.</description>
-    <image_url>
-      https://la.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dw337faae1/images/Full_Card_v/Benetton_23A_123MKU00E_700_FS_Full_Card_v.jpg</image_url>
-    <category>Textil</category>
-    <price>12.00</price>
-    <stock>25</stock>
-  </product>
+  
   <product>
     <id>PROD00008</id>
     <name>Llavero promocional</name>
@@ -101,13 +87,11 @@
     <id>PROD00009</id>
     <name>Chaqueta de mezclilla</name>
     <descriptionCorta>Chaqueta de mezclilla cl&#xE1;sica</descriptionCorta>
-    <description>Una chaqueta de mezclilla cl&#xE1;sica y atemporal, perfecta para cualquier
-      ocasi&#xF3;n. Su dise&#xF1;o resistente y estilo moderno la convierten en una prenda esencial.</description>
-    <image_url>
-      https://caterpillarsv.com/cdn/shop/files/2310631-12268-Light-Stone_1643df9b-8a28-4b4e-8f30-121203f2c396.jpg</image_url>
+    <description>Una chaqueta de mezclilla cl&#xE1;sica y atemporal, perfecta para cualquier      ocasi&#xF3;n. Su dise&#xF1;o resistente y estilo moderno la convierten en una prenda esencial.</description>
+    <image_url>      https://caterpillarsv.com/cdn/shop/files/2310631-12268-Light-Stone_1643df9b-8a28-4b4e-8f30-121203f2c396.jpg</image_url>
     <category>Textil</category>
     <price>35.00</price>
-    <stock>15</stock>
+    <stock>16</stock>
   </product>
   <product>
     <id>PROD00010</id>
@@ -152,4 +136,4 @@
     <stock>50</stock>
     <image_url>https://res.cloudinary.com/dp7iiqv6v/image/upload/v1740377692/phpF70E_pey57c.jpg</image_url>
   </product>
-</products>
+<productId/></products>

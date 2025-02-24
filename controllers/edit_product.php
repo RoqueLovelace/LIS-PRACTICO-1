@@ -1,20 +1,4 @@
-<?php
 
-if (isset($username) && $role == "admin") {
-?>
-    <button type="button" class="btn btn-warning text-white fw-bold" data-bs-toggle="modal"
-        data-bs-target="#Editar<?= $id ?>">
-        Editar
-    </button>
-<?php } ?>
-<?php if (isset($role) && $role == "user") { ?>
-    <a href="" class="h-100">
-        <form method="POST" class="h-100" action="./controllers/favorites.php">
-            <input type="hidden" name="product_id" value="<?= $product->id ?>">
-            <button type="submit" name="add_favorite" class="btn btn-warning h-100">Favs</button>
-        </form>
-    </a>
-<?php } ?>
 
 <!-- MODAL PARA EDITAR PRODUCTO -->
 <div class="modal fade" id="Editar<?= $id ?>" tabindex="-1" aria-labelledby="exampleModalLabel"

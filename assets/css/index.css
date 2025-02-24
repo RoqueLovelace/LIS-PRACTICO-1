@@ -90,7 +90,6 @@ body {
   background-color: #150e4e !important;
   color: white !important;
   font-weight: 600 !important;
-  padding: 12px 20px !important;
   border-radius: 5px !important;
   transition: background-color 0.3s, transform 0.2s ease-in-out !important;
 }

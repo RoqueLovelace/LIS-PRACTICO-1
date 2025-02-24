@@ -1,21 +1,15 @@
 <?xml version="1.0"?>
 <users>
   <user>
-    <name>DiegodMajano</name>
-    <email>diego@majano.com</email>
-    <role>user</role>
-    <password>php-is-not-awesome</password>
-  </user>
-  <user>
-    <username>keren12</username>
-    <email>alamanniblanco@gmail.com</email>
-    <role>user</role>
-    <password>$2y$10$rNgfWgSB3RLer0HtbjPiieBfqBy0OiN268r0bEayaT7M.iysNIvNW</password>
-  </user>
-  <user>
     <username>Chris Cortez</username>
     <role>admin</role>
     <email>chris@cortez.com</email>
     <password>$2y$10$5.poy0cwNAsHlnhUw6TV3uRdFeEZwWQAzkyYbp7RSXA.r0lURy2em</password>
+  </user>
+  <user>
+    <username>Diego Majano</username>
+    <role>user</role>
+    <email>diego@majano.com</email>
+    <password>$2y$10$JkXr1ZkGtfInl81W/7W.aeWE7WV/qvRE/37pbi8bPaUmOfxetLO9q</password>
   </user>
 </users>

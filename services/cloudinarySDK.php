@@ -29,8 +29,8 @@ Configuration::instance([
  * @return string URL de la nueva imagen o mensaje de error
  */
 function uploadImage($image, $oldImageUrl = null) {
+  
     $file = $image['tmp_name'];
-
     if (!file_exists($file)) {
         return "El archivo no existe.";
     }
@@ -38,6 +38,7 @@ function uploadImage($image, $oldImageUrl = null) {
     if (getimagesize($file) === false) {
         return "El archivo no es una imagen válida.";
     }
+
 
     $upload = new UploadApi();
 
